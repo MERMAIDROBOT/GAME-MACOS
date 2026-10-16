@@ -1,8 +1,0 @@
-{
-  "schema": 1,
-  "id": "macos",
-  "core_api": 1,
-  "systems": ["Darwin"],
-  "entrypoint": "macos_adapter.py",
-  "status": "experimental_runtime_consolidation_pending"
-}
